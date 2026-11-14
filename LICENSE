@@ -1,0 +1,5 @@
+SPDX-License-Identifier: GPL-3.0-only
+
+Chess engine (main.py) is a size-golfed fork of Sunfish by Thomas Ahle,
+licensed GPL-3.0-only <https://www.gnu.org/licenses/gpl-3.0.txt>.
+Project files otherwise MIT.
